@@ -1,1 +1,1 @@
-<img src = "images/javascript.png">
+<img src = "/images/javascript.png">
