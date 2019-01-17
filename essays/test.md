@@ -1,1 +1,1 @@
-<img src = "sjavella.github.io/images/javascript.png">
+<img src = "images/javascript.png">
