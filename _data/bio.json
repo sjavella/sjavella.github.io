@@ -2,7 +2,7 @@
   "basics": {
     "name": "Simplicio Javellana-Samonte",
     "label": "ICS Student",
-    "picture": "https://sjavella.github.io/images/simmy.png",
+    "picture": "https://sjavella.github.io/images/simmycircle.png",
     "email": "sjavella@hawaii.edu",
     "phone": "",
     "website": "https://sjavella.github.io",
@@ -100,11 +100,5 @@
 
       ]
     }
-  ],
-  "volunteer": [
-    
-  ],
-  "awards": [
-    
   ]
 }
