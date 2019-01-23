@@ -9,5 +9,5 @@ date: 2019-01-22
 labels:
   - Java
   - Eclipse
-summary: An game of an agar.io clone created in a team in my ICS 111 class.
+summary: An agar.io clone created in my ICS 111 class.
 ---
