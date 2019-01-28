@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/dotsicsmenu.png
+image: images/dotsicsmenunew.png
 title: dots.ics
 permalink: projects/dotsics
 # All dates must be YYYY-MM-DD format!
