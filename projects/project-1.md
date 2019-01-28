@@ -16,9 +16,13 @@ For my final project in my ICS 111 course at UH Manoa, we were assigned in small
 
 ## History of our game
 
-Our game is based off of a simple, yet popular game that blew up in 2015 called [agar.io](http://agar.io/). Although the original game was written in Javascript and C++, we thought it was a good idea to write it in Java to demonstrate our understanding of the language itself. Here is a comparison between our game (left) and the original (right):
+Our game is based off of a simple, yet popular game that blew up in 2015 called [agar.io](http://agar.io/). Although the original game was written in Javascript and C++, we thought it was a good idea to write it in Java to demonstrate our understanding of the language itself. Here is a comparison between our game: 
 
-<img class="ui medium left rounded image" src="../images/dotsicsgameplay.png"> <img class="ui medium right rounded image" src="../images/agariogameplay.png">
+<img class="ui medium centered rounded image" src="../images/dotsicsgameplay.png"> 
+
+and the original:
+
+<img class="ui medium centered rounded image" src="../images/agariogameplay.png">
 
 ## Well, how do you play it?
 
