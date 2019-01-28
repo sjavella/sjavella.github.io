@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/sudokuthumb.png
+image: images/uhsystem.png
 title: IRAO Log Parsing Project
-permalink: projects/hexasudokusolver
+permalink: projects/iraologparse
 # All dates must be YYYY-MM-DD format!
 date: 2019-01-27
 labels:
