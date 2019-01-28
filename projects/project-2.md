@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/sudoku.PNG
+image: /images/sudoku.PNG
 title: Hexadecimal Sudoku Solver
 permalink: projects/dotsics
 # All dates must be YYYY-MM-DD format!
