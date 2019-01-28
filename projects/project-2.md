@@ -36,6 +36,11 @@ public static boolean checkSudoku(int[][] sudoku, boolean printErrors) {
       }
     }
 ```
+## Output of the sudoku program
+
+The console will print the hexadecimal sudoku before and after the sudoku puzzle is solved.
+<img class="ui medium center rounded image" src="../images/hexasudoku.png"> 
+
 
 ## What have I gained from it?
 
