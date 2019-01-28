@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/sudoku.png
+image: images/sudokuthumb.png
 title: Hexadecimal Sudoku Solver
-permalink: projects/dotsics
+permalink: projects/hexasudokusolver
 # All dates must be YYYY-MM-DD format!
 date: 2019-01-27
 labels:
