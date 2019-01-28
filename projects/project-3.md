@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/uhsyslogo.png
+image: images/uhsyslogonew.png
 title: IRAO Log Parsing Project
 permalink: projects/iraologparse
 # All dates must be YYYY-MM-DD format!
