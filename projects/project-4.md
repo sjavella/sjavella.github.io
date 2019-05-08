@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/manoamunchieslogo.png
-title: IRAO Log Parsing Project
+title: Manoa Munchies
 permalink: projects/manoamunchies
 # All dates must be YYYY-MM-DD format!
 date: 2019-05-07
@@ -24,3 +24,10 @@ As for the requirements, we were prompted to create multiple functioning pages a
 
 The whole project was streched in a timeframe of a month, so the way in which we organized the workflow was extremely important. There were also a total of three milestones in which every milestone was required to present the progress of the project. In addition to that we utilized GitHub's Project feature where we could add milestones, issues, assignments for the issues, and much more.
 
+## What was I responsible for? 
+
+I was primarily in charge of the aesthetics and landing page of the webapp. My goal was to make sure that users feel welcomed when entering the site, and that the theming can entice them to try out manoa munchies. 
+
+## Final Thoughts
+
+Doing this project was extremely enjoyable and a challenge. There were many things I have learned throughout the month and milestones and I hope that I can try to apply them to future ICS classes.
